@@ -1,0 +1,2 @@
+# PromoterStrengthPredictor
+This is a python platform that uses multi-variate linear regression with gradient descent as the optimization function to predict the strength of sigma seventy promoters in Escherichia coli. The training data set used was the 19 Anderson promoters. The model was validated with a cross validation fit and a good correlation co-efficient(R-square) value of 0.69 is observed. For usage any team or user will have to input the -10 and -35 regions of the promoter sequence. The -10 and -35 hexamers serve as the two variables in the model. 
